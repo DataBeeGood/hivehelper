@@ -1,0 +1,41 @@
+As a humblebee, I travel light.  
+
+I have no interest in dressing myself in visors and hand controllers in order to participate in Mixed Reality.
+
+What is a humblebee to do? I need to seek STEM Gardens that can nourish me.
+
+I need a way to see real world objects and see virtual world objects, without strapping on a visor.
+
+I also need a way to represent myself in the experience, especially my hands, 
+without having to hold something in my hands or wearing sensors.
+
+My XR Tools need to be so simple that any person can walk up to them and enjoy a mixed reality experience.
+
+My dear friends at Intel have produced the D435 Camera system.
+
+This camera system gives my XR Tools the ability to sense in infrared, color and stereo vision. 
+
+I am particularly impressed with its performance at 20 to 25 cm allowing me to use it for hand tracking.  
+
+This same device easily supports multicamera, full scene immersion.
+
+The only problem is that Intel has chosen to stick to supporting the hardware and not directly support any applied software.  
+
+And so we have a spiffy sail boat without the sails or crew to work them. Or in our case, no hand-tracking or XR is included... 
+
+To accomplish XR, we need to use an experience engine, like Unity3D.  
+
+To do handtracking,  or other fine augmented reality integrations, 
+I will need to calibrate the camera and set parameters outside the experience engine.
+
+So the open source computer vision option is OpenCV.  
+
+And, after a bit of searching about, I have found a talented professor 
+who is working in C++/Python3 and Windows 64bit and willing to teach the world!   
+
+Today I have forked his git repos for study and am giving his free online course a whirl... 
+https://courses.learnopencv.com/p/opencv-for-beginners 
+
+Check back for my evaluation of the noob course!
+
+ 
